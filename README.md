@@ -59,9 +59,6 @@ details[open] > *:not(summary) {
 
 # Pädagogika weiterentwickeln? Wohin und wozu?
 Liebe Dozent*innen,
-
-![Monte](img/Monte.jpg)
-![Abbildung](./img/taest/Abbildung%20Kompetenzmodell%20für%20Anrechung%20für%20HS.png)
 schön, dass ihr den Weg zu unserem Lernkurs **Pädagogika 3.0 Fort- und Weiterbildung kompetenzbasiert darstellen** gefunden habt. In Zeiten großer gesellschaftlicher Transformationsprozesse ist auch die Pädagogik immer bestrebt, sich weiterzuentwickeln und den veränderten Marktlagen sowie unternehmerischen Zielsetzungen anzupassen.
 
 In den kommenden Jahren stehen sowohl für die Kinderwelt als auch für die Pädagogik große Veränderungen an, unter anderem die Weiterentwicklung von der Fachschule hin zur Fachhochschule.
@@ -196,10 +193,7 @@ Die Taxonmiestufen hier nochmals als Tabelle dargstellt
 
 Die jeweiligen ___Learning Outcomes___ werden in Anlehnung an das Kompetenzmodell im Qualifikationsrahmen für Deutsche Hochschulabschlüsse (HQR) in folgende Teilkbereiche untergliedert
 
-
-# BILD HIER EINFÜGEN 
-
-
+![Abbildung](./img/taest/Abbildung%20Kompetenzmodell%20für%20Anrechung%20für%20HS.png)
 
 
 Lernziele sind eng mit den Lerninhalten verflochten. Bei der Formulierung von Lernzielen ist es unerlässlich, auch die entsprechenden Inhalte zu benennen. Zusätzlich müssen Handlungen beschrieben werden, die nachvollziehbar machen, ob die angestrebte Kompetenz im Lernziel erworben wurde. Daher sollten Lernziele:
