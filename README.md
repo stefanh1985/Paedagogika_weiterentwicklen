@@ -60,6 +60,8 @@ details[open] > *:not(summary) {
 # Pädagogika weiterentwickeln? Wohin und wozu?
 Liebe Dozent*innen,
 
+![Monte](img/Monte.jpg)
+![Abbildung](./img/taest/Abbildung%20Kompetenzmodell%20für%20Anrechung%20für%20HS.png)
 schön, dass ihr den Weg zu unserem Lernkurs **Pädagogika 3.0 Fort- und Weiterbildung kompetenzbasiert darstellen** gefunden habt. In Zeiten großer gesellschaftlicher Transformationsprozesse ist auch die Pädagogik immer bestrebt, sich weiterzuentwickeln und den veränderten Marktlagen sowie unternehmerischen Zielsetzungen anzupassen.
 
 In den kommenden Jahren stehen sowohl für die Kinderwelt als auch für die Pädagogik große Veränderungen an, unter anderem die Weiterentwicklung von der Fachschule hin zur Fachhochschule.
