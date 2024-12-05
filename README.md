@@ -59,6 +59,13 @@ details[open] > *:not(summary) {
 
 # Pädagogika weiterentwickeln? Wohin und wozu?
 Liebe Dozent*innen,
+<<<<<<< HEAD
+![foo](./img/../img/taest/Abbildung%20Kompetenzmodell%20für%20Anrechung%20für%20HS.png)
+
+![Monte](img/Monte.jpg)
+![Abbildung](./img/taest/Abbildung%20Kompetenzmodell%20für%20Anrechung%20für%20HS.png)
+=======
+>>>>>>> 6c054027f14b4def5b3096e82993e2f06ae28986
 schön, dass ihr den Weg zu unserem Lernkurs **Pädagogika 3.0 Fort- und Weiterbildung kompetenzbasiert darstellen** gefunden habt. In Zeiten großer gesellschaftlicher Transformationsprozesse ist auch die Pädagogik immer bestrebt, sich weiterzuentwickeln und den veränderten Marktlagen sowie unternehmerischen Zielsetzungen anzupassen.
 
 In den kommenden Jahren stehen sowohl für die Kinderwelt als auch für die Pädagogik große Veränderungen an, unter anderem die Weiterentwicklung von der Fachschule hin zur Fachhochschule.
@@ -348,6 +355,8 @@ Als letzte zentrale Angabe sind die Prüfungsformate anzugeben, die im jeweilige
 Nachdem du fleißig warst und die einzelnen Aufgaben bearbeitet hast, haben wir noch eine allerletzte Aufgabe für dich, damit wir im Entwicklungsmeeting schneller vorankommen.
 
 > 🛠 **Aufgabe**: ***Nutze die unten verlinkte Datei und übertrage exemplarisch für eine deiner Aus-, Fort- oder Weiterbildungen alle Teilaspekte in die Vorlage. Sende die Vorlage vor dem Entwicklungsmeeting an die Pädagogik und bringe sie zusätzlich ausgedruckt mit.***
+
+Vorlage: https://cloud.die-kinderwelt.com/s/nNRHTgtKbNkrBJ7 
 
 Das war viel Arbeit... wir hoffen sehr, dass euch diese Arbeit auch für weitere Kontexte hilfreich ist, da sie eine zentrale Form zur Aufwertung des gesamten sozialpädagogischen Arbeitsfeldes darstellt und sich auch ggf. durch euch in andere Sphären transferieren lässt. Wir sagen nun herzlichen Dank für eure Mühe und freuen uns auf unser gemeinsames Entwicklungsmeeting :-)
 
